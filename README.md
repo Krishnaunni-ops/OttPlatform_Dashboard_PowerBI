@@ -8,12 +8,7 @@ This project focuses on analyzing various OTT platform datasets using **Power BI
 ## 📌 Project Overview  
 - **Data Cleaning & Preprocessing:** Utilized **Power BI Query Editor** for data transformation and cleaning.  
 - **Visualizations:** Created interactive dashboards using **plots, cards, and charts** to gain insights.  
-- **Datasets Used:**  
-  - [Amazon Prime Movies & TV Shows](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)  
-  - [Disney+ Movies & TV Shows](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)  
-  - [Netflix Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
-  - [Netflix Originals](https://www.kaggle.com/datasets/ramaswamyv/netflix-originals)  
-  - [Netflix Rotten Tomatoes, Metacritic & IMDb Ratings](https://www.kaggle.com/datasets/ruchi798/netflix-rotten-tomatoes-metacritic-imdb)  
+- **Datasets Used** from Kaggle.
 
 ## 📊 Features  
 - **Content Analysis:** Genre-wise distribution of movies and shows.  
